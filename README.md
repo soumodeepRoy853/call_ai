@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/soumodeepRoy853/call_ai?utm_source=oss&utm_medium=github&utm_campaign=soumodeepRoy853%2Fcall_ai&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 First, run the development server:
 
 ```bash
